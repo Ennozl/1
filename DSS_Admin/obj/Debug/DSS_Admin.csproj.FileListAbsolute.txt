@@ -1,0 +1,5 @@
+D:\VS练习\DSS_Admin\obj\Debug\DSS_Admin.csproj.AssemblyReference.cache
+D:\VS练习\DSS_Admin\obj\Debug\DSS_Admin.csproj.SuggestedBindingRedirects.cache
+D:\VS练习\DSS_Admin\obj\Debug\DSS_Admin.login.resources
+D:\VS练习\DSS_Admin\obj\Debug\DSS_Admin.csproj.GenerateResource.cache
+D:\VS练习\DSS_Admin\obj\Debug\DSS_Admin.csproj.CoreCompileInputs.cache
