@@ -1,6 +1,0 @@
-D:\VS练习\Model\bin\Debug\Model.dll
-D:\VS练习\Model\bin\Debug\Model.pdb
-D:\VS练习\Model\obj\Debug\Model.csproj.AssemblyReference.cache
-D:\VS练习\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
-D:\VS练习\Model\obj\Debug\Model.dll
-D:\VS练习\Model\obj\Debug\Model.pdb
