@@ -1,9 +1,0 @@
-D:\VS练习\DAL\bin\Debug\DAL.dll
-D:\VS练习\DAL\bin\Debug\DAL.pdb
-D:\VS练习\DAL\bin\Debug\Model.dll
-D:\VS练习\DAL\bin\Debug\Model.pdb
-D:\VS练习\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-D:\VS练习\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-D:\VS练习\DAL\obj\Debug\DAL.csproj.CopyComplete
-D:\VS练习\DAL\obj\Debug\DAL.dll
-D:\VS练习\DAL\obj\Debug\DAL.pdb
